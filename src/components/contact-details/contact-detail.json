@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_contact_details_contact_details",
+  "info": {
+    "displayName": "ContactDetail",
+    "icon": "alien"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "logo": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
